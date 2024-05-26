@@ -1,0 +1,10 @@
+C:\Users\maksi\source\repos\Lab4.1\obj\Debug\Lab4.1.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\Lab4.1\obj\Debug\Lab4._1.Form1.resources
+C:\Users\maksi\source\repos\Lab4.1\obj\Debug\Lab4._1.Properties.Resources.resources
+C:\Users\maksi\source\repos\Lab4.1\obj\Debug\Lab4.1.csproj.GenerateResource.cache
+C:\Users\maksi\source\repos\Lab4.1\obj\Debug\Lab4.1.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\Lab4.1\bin\Debug\Lab4.1.exe.config
+C:\Users\maksi\source\repos\Lab4.1\bin\Debug\Lab4.1.exe
+C:\Users\maksi\source\repos\Lab4.1\bin\Debug\Lab4.1.pdb
+C:\Users\maksi\source\repos\Lab4.1\obj\Debug\Lab4.1.exe
+C:\Users\maksi\source\repos\Lab4.1\obj\Debug\Lab4.1.pdb
